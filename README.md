@@ -1,5 +1,6 @@
 # Java-Assignments
 ----------------------------Inheritance and polimorphism----------------------------------------
+
 Implement the Point, Circle and Cylinder
 classes and exercise the
 inheritance features taught in the lectures. You should implement those three classes using
@@ -15,6 +16,7 @@ with incorrect number of arguments and incorrect type of arguments through check
 exceptions
 
 --------------------------Mean and Variance-------------------------------------------------------
+
 Calculate the mean and variance of a series of floating point
 numbers. It should first receive from the standard input the number of floating point numbers
 to follow and then those numbers in a loop. The class you will write to implement this should
@@ -33,7 +35,8 @@ terminate by first printing the numbers for which it has calculated the mean and
 then the actual mean and variance.
 
 
----------------------------------Virtual Dice throwing program------------------------------------------
+---------------------------------Virtual Dice throwing program-----------------------------------
+
 This program should emulate virtual dice throwing. It should receive as arguments the
 number of sides of the virtual dice (should be >= 2) and the number of times to be thrown
 which should be a multiple of the number of sides, you should check for this and make sure it
