@@ -1,5 +1,5 @@
 # Java-Assignments
-----------------------------Inheritance and polimorphism----------------------------------------
+----------------------------Inheritance and polymorphism----------------------------------------
 
 Implement the Point, Circle and Cylinder
 classes and exercise the
